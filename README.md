@@ -12,7 +12,9 @@ The dataset was gotten from a public dataset on Kaggle
 
 
 ## Data Cleaning
-
+Data was sourced from kaggle in a CSV file with 6436 data entry in the rows and 8 columns. New columns (month & Season) were created from the date column
+IF function was applied on the date column to transform to the 4 seasons while the month was extracted from the date.
+Also the temperature column in fahrenheit was converted to centigrade
 
 ## Data Visualization
 i, 2010 Summer Sales 
